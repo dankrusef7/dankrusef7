@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dankrusef7
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on hacking tools
 - 📫 How to reach me dankrusefdracula759+github@gmail.com
 
 <!---
